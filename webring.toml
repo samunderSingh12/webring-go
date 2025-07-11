@@ -19,3 +19,9 @@ Name = "Alex Adler - a project"
 Url = "https://adler.robertoholm.es/"
 Image = "https://alex-adler.github.io/favicon/favicon.svg"
 Description = "Engineering for the near future"
+
+[[Websites]]
+Name = "suma"
+Url = "https://samunderadhikari.neocities.org/"
+Image = "https://samunderadhikari.neocities.org/main-core.jpg"
+Description = "i hate current social media"
